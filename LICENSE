@@ -1,0 +1,29 @@
+UHS-OSA Open Core License
+Copyright © 2026 Universal Holistic System (UHS)
+Originator: Sven von Zweigbergk
+1. Grant of Rights
+The UHS-OSA Open Core is provided free of charge for use, implementation, adaptation and application in any organization, system or product.
+No prior approval or agreement is required for use of the Open Core.
+2. Scope of Open Core
+The Open Core includes:
+- Operational Decimal Classification (ODC) levels 1–4 and levels 4-6 for class 011 OMA Operation Manual
+- structural models and perspective logic
+- principles for portals, folders and navigation
+3. Attribution (Mandatory)
+All implementations shall include the following attribution:
+“Based on the Universal Holistic System (UHS) by Sven von Zweigbergk.”
+The attribution shall be visible in documentation, user interfaces or metadata where applicable.
+4. Separation of Materials
+Materials beyond the Open Core, including but not limited to:
+- detailed classification structures
+- templates and reference implementations
+- governance, certification and ecosystem services
+are not part of this license and may be subject to separate agreements.
+5. No Implied Endorsement
+Use of the terms “UHS”, “UHS-OSA” or “UHS Compliant” in a way that implies endorsement, certification or official conformity requires authorization from the designated steward.
+6. No Warranty
+The UHS-OSA Open Core is provided “as is” without warranty of any kind, express or implied.
+7. Limitation of Liability
+The Originator shall not be liable for any damages arising from the use or implementation of the Open Core.
+8. Governance
+The long-term governance, stewardship and evolution of UHS are defined separately and are not part of this license.
