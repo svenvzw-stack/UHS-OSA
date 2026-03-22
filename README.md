@@ -29,7 +29,7 @@ Recommended navigation:
    - 431 – Level 1
    - 432 – Level 1–2
    - 433 – Level 1–3
-   - 434 – Full scope (levels 1–4 and levels 5–6 for class 011 Operation ManualSS)
+   - 434 – Full scope (levels 1–4 and levels 5–6 for class 011 Operation Manual)
 3. Supporting materials:
    - 040 Basic models
    - 100 Use of colors
