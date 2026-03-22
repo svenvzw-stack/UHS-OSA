@@ -25,7 +25,7 @@ https://1drv.ms/f/c/d0cd1aee74c12dc2/EmUl_u_quANMjUv9qK4-VEgB7e54vb4RVK3YwD2h_nq
 Recommended navigation:
 1. Start with:
    - 000 UHS-OSA (overall concept and structure)
-2. Continue with increasing structural depth:S
+2. Continue with increasing structural depth:
    - 431 – Level 1
    - 432 – Level 1–2
    - 433 – Level 1–3
