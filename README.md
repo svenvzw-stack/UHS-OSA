@@ -9,7 +9,7 @@ It enables consistent structures across:
 - digital systems and AI-based services
 
 The purpose is to improve interoperability, usability and long-term stability independent of technology.
-UHS-OSA is intended to function as a common structural reference comparable to classification systems such as DDC/UDC, but for operational environments.
+UHS-OSA is intended to function as a common structural reference comparable to classification systems such as DDC/UDC for libraries, but for operational environments.
 ## Open Core
 The UHS-OSA Open Core is freely available and may be implemented without prior approval.
 The Open Core defines the invariant structural grammar through:
