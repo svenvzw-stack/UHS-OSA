@@ -16,6 +16,7 @@ The Open Core defines the invariant structural grammar through:
 - Operational Decimal Classification (ODC) levels 1–4
 - structural models and perspective logic
 - principles for portals, folders and navigation
+
 For the Operation Manual (OMA), structural invariance extends to levels 5–6 to ensure sufficient granularity for governance, navigation and operational consistency.
 The Open Core defines how the structure works, not all possible content within the structure.
 See LICENSE for formal terms.
