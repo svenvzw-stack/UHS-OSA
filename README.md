@@ -24,6 +24,7 @@ See LICENSE for formal terms.
 The UHS-OSA Open Core is publicly available and presented in a structured format to support understanding and correct interpretation.
 Access the structured Open Core materials here:
 https://1drv.ms/f/c/d0cd1aee74c12dc2/EmUl_u_quANMjUv9qK4-VEgB7e54vb4RVK3YwD2h_nq-4Q?e=dXObTY 
+
 Recommended navigation:
 1. Start with:
    - 000 UHS-OSA (overall concept and structure)
