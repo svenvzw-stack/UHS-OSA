@@ -7,6 +7,7 @@ It enables consistent structures across:
 - folder structures
 - portals and navigators
 - digital systems and AI-based services
+
 The purpose is to improve interoperability, usability and long-term stability independent of technology.
 UHS-OSA is intended to function as a common structural reference comparable to classification systems such as DDC/UDC, but for operational environments.
 ## Open Core
