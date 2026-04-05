@@ -34,6 +34,7 @@ Recommended navigation:
    - 433 – Level 1–3
    - 434 – Full scope (levels 1–4 and levels 5–6 for class 011 Operation Manual)
 3. Supporting materials:
+   - 030 Basic operational principles
    - 040 Basic models
    - 100 Use of colors
 The Open Core defines the structural grammar, not all possible content within the structure.
