@@ -30,8 +30,8 @@ Recommended navigation:
    - 000 UHS-OSA (overall concept and structure)
 2. Continue with increasing structural depth:
    - 431 – Level 1
-   - 432 – Level 1–2
-   - 433 – Level 1–3
+   - 432 – Levels 1–2
+   - 433 – Levels 1–3
    - 434 – Full scope (levels 1–4 and levels 5–6 for class 011 Operation Manual)
 3. Supporting materials:
    - 030 Basic operational principles
