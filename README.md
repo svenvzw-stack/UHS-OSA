@@ -1,4 +1,33 @@
 # UHS-OSA
+
+Universal Holistic System – Open Structural Architecture
+
+## Current Public Release
+
+This repository contains **UHS-OSA Open Core – Edition 1**, the first public release of the Universal Holistic System – Open Structural Architecture.
+
+Edition 1 defines the invariant structural principles of UHS-OSA and serves as the public reference specification.
+
+A substantially expanded **Edition 2** is currently under preparation. It introduces:
+
+- extended nine-level structural coordinates
+- structural relationship operators
+- Common Structural Grammar
+- informative reference annexes
+- improved implementation guidance
+- enhanced examples and reference mappings
+
+The current Open Core remains fully valid and fully compatible with the forthcoming Edition 2.
+
+The latest public documents, introductory material and ongoing development are available through the official OneDrive Open Core folder and the UHS YouTube channel:
+
+**YouTube:** https://www.youtube.com/@uhs123e
+
+---
+
+## What is UHS-OSA?
+
+UHS-OSA defines a technology-independent structural grammar for organizing operational information and tools across organizations, systems and platforms.
 Universal Holistic System – Open Structural Architecture
 ## What is UHS-OSA?
 UHS-OSA defines a technology-independent structural grammar for organizing operational information and tools across organizations, systems and platforms.
