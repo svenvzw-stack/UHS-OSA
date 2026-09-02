@@ -52,7 +52,7 @@ See LICENSE for formal terms.
 ## How to access the Open Core
 The UHS-OSA Open Core is publicly available and presented in a structured format to support understanding and correct interpretation.
 Access the structured Open Core materials here:
-https://1drv.ms/f/c/d0cd1aee74c12dc2/EmUl_u_quANMjUv9qK4-VEgB7e54vb4RVK3YwD2h_nq-4Q?e=dXObTY 
+To be submitted to potential licensees
 
 Recommended navigation:
 1. Start with:
